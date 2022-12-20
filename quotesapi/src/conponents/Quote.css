@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Caramel&display=swap');
+.quotes{
+    padding: 10px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    font-family:  'Caramel', cursive;
+}
+.quotes p{
+    font-style: italic;
+    font-family:  'Caramel', cursive;
+}
+.quotes h3{
+    font-family:  'Caramel', cursive;
+}
